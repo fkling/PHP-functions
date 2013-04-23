@@ -8,5 +8,5 @@ This is a collection of useful PHP functions.
 **Content:**
 
 - jsonp_util.php
-  - `jsonp_dencode`
+  - `jsonp_decode`
   - `jsonp_encode`
